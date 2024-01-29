@@ -1,0 +1,28 @@
+Ice Cream Flavor      	Monthly Sales
+----------------      	-------------
+Cherry                  89.55
+Coffee                 177.11
+Lime                    45.77
+Orange                 131.34
+Blueberry              155.22
+Rainbow                202.98
+Apple                  244.77
+Raspberry              167.16
+Banana                 220.89
+Pina Colada            288.55
+Peanut Butter          354.22
+Butter Pecan           195.02
+Lemon                  147.26
+Chocolate              266.66
+Strawberry             310.44
+Pineapple              177.11
+Coconut                137.31
+Cheesecake             113.43
+Caramel                352.23
+Vanilla                 77.61
+Marshmallow            185.07
+Butterscotch           153.23
+Pumpkin                216.91
+Mint                   312.43
+Oreo                   310.44
+Hot Fudge              328.35
